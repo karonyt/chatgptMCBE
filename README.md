@@ -9,7 +9,7 @@ API_KEYにAPI KEYを入れてchatgpt.cmdを実行するだけで出来ます
 (https://github.com/tutinoko2048/SocketBE/blob/main/README_ja.md)  
 と同じようにしてください。  
 
-##使い方
+## 使い方
 設定後、chatgpt.cmdを実行し、マイクラ側で  
 /connect localhost:3000  
 を実行します。  
