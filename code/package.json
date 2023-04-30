@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chatgpt": "^5.2.2",
+    "socket-be": "^1.1.0",
+    "openai": "^3.2.1"
+  }
+}
