@@ -1,6 +1,6 @@
 # chatgptMCBE
 
-##はじめに
+## はじめに
 マイクラでChatGPTを使いたいそこのあなたにおすすめです  
   
 API_KEYにAPI KEYを入れてchatgpt.cmdを実行するだけで出来ます  
