@@ -3,7 +3,7 @@
 ## はじめに
 マイクラでChatGPTを使いたいそこのあなたにおすすめです  
   
-API_KEYにAPI KEYを入れてchatgpt.cmdを実行するだけで出来ます  
+index.jsのAPI_KEYにAPI KEYを入れてfirst.cmdを実行後、chatgpt.cmdを実行するだけで出来ます  
   
 環境設定はSocketBE  
 (https://github.com/tutinoko2048/SocketBE/blob/main/README_ja.md)  
