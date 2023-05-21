@@ -28,3 +28,7 @@ MITライセンス
 
 ## ダウンロード
 https://github.com/karonyt/chatgptMCBE/releases
+
+## 動画
+https://www.youtube.com/watch?v=iw6mTb9C5Nw&t=3s
+
