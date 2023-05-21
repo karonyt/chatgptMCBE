@@ -24,3 +24,6 @@ ChatGPTに何か処理をさせる場合はチャット欄で
 
 ## ライセンス
 MITライセンス
+
+## ダウンロード
+https://github.com/karonyt/chatgptMCBE/releases
