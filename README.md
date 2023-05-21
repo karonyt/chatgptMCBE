@@ -10,7 +10,7 @@ index.jsのAPI_KEYにAPI KEYを入れてfirst.cmdを実行後、chatgpt.cmdを�
 と同じようにしてください。  
 
 ## 使い方
-index.jsのAPI_KEYにAPI KEY(発行はhttps://platform.openai.com/account/api-keys)を入れてfirst.cmdを実行  
+index.jsのAPI_KEYにAPI KEY(発行は https://platform.openai.com/account/api-keys )を入れてfirst.cmdを実行  
 chatgpt.cmdを実行し、マイクラ側で  
 /connect localhost:3000  
 を実行します。  
